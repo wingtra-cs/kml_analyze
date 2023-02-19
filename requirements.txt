@@ -6,3 +6,4 @@ nbserverproxy
 scipy
 streamlit
 streamlit-option-menu
+xmltodict
