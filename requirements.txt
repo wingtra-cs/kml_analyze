@@ -7,3 +7,4 @@ scipy
 streamlit
 streamlit-option-menu
 xmltodict
+matplotlib
